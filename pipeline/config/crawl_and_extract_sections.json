@@ -1,0 +1,20 @@
+{
+  "base_urls": [
+    "https://example.com/knowledge/"
+  ],
+
+  "allowed_extensions": [
+    ".html",
+    ".htm",
+    "/"
+  ],
+
+  "whitelist_domains": [
+    "reference.com",
+    "docsource.com",
+    "legalinfo.com",
+    "resourcesite.com"
+  ],
+
+  "crawl_delay_seconds": 0.5
+}

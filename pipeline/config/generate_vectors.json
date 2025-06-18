@@ -1,0 +1,7 @@
+{
+  "pages_file": "sectioned_pages.json",
+  "output_file": "rag_vectors.json",
+  "chunk_size": 500,
+  "chunk_overlap": 100,
+  "embed_model": "all-MiniLM-L6-v2"
+}
